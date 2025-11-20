@@ -58,8 +58,9 @@ PACKAGES="$PACKAGES luci-app-openclash"
 PACKAGES="$PACKAGES luci-proto-wireguard"
 PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
-PACKAGES="$PACKAGES luci-app-ocserv"
-PACKAGES="$PACKAGES luci-app-wechatpush"
+PACKAGES="$PACKAGES luci-i18n-ocserv-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-wechatpush-zh-cn"
+
 
 
 # 文件管理器
